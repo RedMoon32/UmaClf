@@ -1,0 +1,8 @@
+requests
+numpy
+matplotlib
+opencv-python
+scikit-learn
+torch
+torchvision
+python-telegram-bot
