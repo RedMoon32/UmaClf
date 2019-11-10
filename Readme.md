@@ -11,7 +11,7 @@ A20 & A15 classes
 ![A15](src/task/images/50957.png)
 
 ### Solution
-#####Bot Address - @Uma_Tech_Bot
+**Bot Address - @Uma_Tech_Bot**
 1) **Data Pre-processing** : is simple,  I
 just resized  all images to the average width and height
 2) **Model** : as a Machine Learning base model I 
